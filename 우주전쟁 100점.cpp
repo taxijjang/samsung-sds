@@ -27,6 +27,7 @@ int compare(const void *A, const void *B) {
 		return 1;
 	}
 }
+
 vector<MIS_COM> comm[40001]; //미사일 조합
 
 int main(void) {
